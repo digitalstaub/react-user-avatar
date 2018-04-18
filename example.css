@@ -13,6 +13,9 @@
 .UserAvatar--light {
   color: gray;
 }
+.UserAvatar--badge {
+  
+}
 
 .UserAvatar--light .UserAvatar--inner {
   border: 1px solid lightgray;
