@@ -1,5 +1,5 @@
 {
-  "name": "react-user-avatar",
+  "name": "react-user-avatar-badge",
   "version": "1.10.0",
   "description": "React component for a user avatar with fallback to colored initials",
   "main": "user-avatar.js",
@@ -14,9 +14,9 @@
     "avatar",
     "initials"
   ],
-  "author": "Will Binns-Smith <wbinnssmith@gmail.com>",
+  "author": "Benjamin Kotte <benni@digitalstaub.com>",
   "license": "MIT",
-  "repository": "github:wbinnssmith/react-user-avatar",
+  "repository": "github:digitalstaub/react-user-avatar",
   "devDependencies": {
     "babel-cli": "^6.3.13",
     "babel-preset-es2015": "^6.3.13",
